@@ -1,0 +1,22 @@
+{
+  "name": "tryftp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lapisanlangit/tryftp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lapisanlangit/tryftp/issues"
+  },
+  "homepage": "https://github.com/lapisanlangit/tryftp#readme",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
